@@ -1,7 +1,7 @@
 <h1 align="center">👋me chamo lucas</h1>
 <h3 align="center">Sou um desenvolvedor backend iniciante</h3>
 
-- 🌱 Atualmente aprendendo **Java e outras ferramentas**
+- 🌱 Atualmente aprendendo **Java,SQL e outras ferramentas**
 
 - 📫 email para contato: **lucas827377@gmail.com**
 
